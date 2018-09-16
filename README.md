@@ -1,4 +1,4 @@
-# ee-types
+# types
 
 Easy and reliable type detection with ES6+ support.
 
