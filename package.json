@@ -1,6 +1,6 @@
 {
-  "name": "ee-types",
-  "version": "3.0.1",
+  "name": "@distributed-systems/types",
+  "version": "1.0.0",
   "description": "Reliable & easy Js & ES Type detection",
   "main": "./types.mjs",
   "directories": {
