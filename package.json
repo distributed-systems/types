@@ -1,6 +1,6 @@
 {
   "name": "@distributed-systems/types",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Reliable & easy Js & ES Type detection",
   "main": "./types.mjs",
   "directories": {
@@ -26,5 +26,6 @@
   "homepage": "https://github.com/eventEmitter/ee-types#readme",
   "devDependencies": {
     "section-tests": "^2.2.0"
-  }
+  },
+  "type": "module"
 }

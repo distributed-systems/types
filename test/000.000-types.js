@@ -1,8 +1,6 @@
-'use strict';
-
-import section, {SpecReporter} from 'section-tests';
+import section, {SpecReporter} from '../es-modules/distributed-systems/section-tests/x/index.js';
 import assert from 'assert';
-import type from '../';
+import type from '../types.js';
 
 
 section.use(new SpecReporter());
